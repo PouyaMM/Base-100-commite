@@ -6,3 +6,4 @@ Tracking my public building journey
 Public commit for open building
 Tracking my public building journey
 Documenting my Guild Base quest
+Making real progress for Guild Base Builders
