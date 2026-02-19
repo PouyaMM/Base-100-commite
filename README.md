@@ -5,3 +5,4 @@ Open source mindset in action
 Tracking my public building journey
 Public commit for open building
 Tracking my public building journey
+Documenting my Guild Base quest
