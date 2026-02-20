@@ -25,3 +25,4 @@ Making GitHub a daily routine
 Milestone getting closer
 Public commit for open building
 Public commits for easy Guild verification
+Mastering GitHub through practice
