@@ -13,3 +13,4 @@ Keeping the commit streak alive
 Strengthening my developer profile
 Public commit for open building
 Documenting my Guild Base quest
+Making real progress for Guild Base Builders
