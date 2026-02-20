@@ -40,3 +40,4 @@ Sharing every step openly
 Working towards Builders & Founders role
 Adding meaningful lines to README
  Public commit for open building
+Building openly every single day
