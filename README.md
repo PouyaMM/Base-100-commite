@@ -16,3 +16,4 @@ Documenting my Guild Base quest
 Making real progress for Guild Base Builders
 Progress towards 100 public commits
 Public commit for open building
+Daily commit dedicated to Guild Base
