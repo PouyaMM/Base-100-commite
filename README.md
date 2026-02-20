@@ -45,3 +45,4 @@ Making real progress for Guild Base Builders
 Consistent contributions for Base Builders
 Public commit for open building
 Tracking my public building journey
+Strengthening my developer profile
