@@ -42,3 +42,4 @@ Adding meaningful lines to README
  Public commit for open building
 Building openly every single day
 Making real progress for Guild Base Builders
+Consistent contributions for Base Builders
