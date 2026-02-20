@@ -24,3 +24,4 @@ Making real progress for Guild Base Builders
 Making GitHub a daily routine
 Milestone getting closer
 Public commit for open building
+Public commits for easy Guild verification
