@@ -37,3 +37,4 @@ Daily grind paying off
 Making real progress for Guild Base Builders
 Public commit for open building
 Sharing every step openly
+Working towards Builders & Founders role
