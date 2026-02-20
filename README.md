@@ -14,3 +14,4 @@ Strengthening my developer profile
 Public commit for open building
 Documenting my Guild Base quest
 Making real progress for Guild Base Builders
+Progress towards 100 public commits
