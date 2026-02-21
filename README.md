@@ -67,3 +67,4 @@ Making real progress for Guild Base Builders
 Public commit for open building
 Logging progress in public repo
 Milestone getting closer
+Committing to personal growth
