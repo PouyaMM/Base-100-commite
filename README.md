@@ -60,3 +60,4 @@ Another milestone in the challenge
 Growing my GitHub contribution graph
 Creating my digital public footprint
 Public commit for open building
+Documenting my Guild Base quest
