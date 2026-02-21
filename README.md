@@ -52,3 +52,4 @@ Making real progress for Guild Base Builders
 Building openly every single day
 Sharing every step openly
 Public commit for open building
+Daily grind paying off
