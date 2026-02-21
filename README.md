@@ -62,3 +62,4 @@ Creating my digital public footprint
 Public commit for open building
 Documenting my Guild Base quest
 Documenting my Guild Base quest
+Adding meaningful lines to README
