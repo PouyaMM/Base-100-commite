@@ -49,3 +49,4 @@ Strengthening my developer profile
 Improving Git and GitHub skills
 Public commit for open building
 Making real progress for Guild Base Builders
+Building openly every single day
