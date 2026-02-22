@@ -95,3 +95,4 @@ Another successful public update
 Daily grind paying off
 Public commit for open building
 Consistency is the real key
+Making real progress for Guild Base Builders
