@@ -84,3 +84,4 @@ Making real progress for Guild Base Builders
 Pushing public commits daily
 Milestone getting closer
 Consistent contributions for Base Builders
+ Making real progress for Guild Base Builders
