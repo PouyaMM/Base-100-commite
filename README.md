@@ -102,3 +102,4 @@ finishing ...
 Exceeding the Guild requirement with style
 Public commit for open building
 Making real progress for Guild Base Builders
+Going beyond 100 public commits
