@@ -94,3 +94,4 @@ Making GitHub a daily routine
 Another successful public update
 Daily grind paying off
 Public commit for open building
+Consistency is the real key
