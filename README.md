@@ -77,3 +77,7 @@ On my way to 100+ lifetime commits
 74.  Commit 74 - Remember: public commits count
 75.  Commit 75 - Small consistent steps to success
 76.  Update #76 - Public commit for open building
+Making real progress for Guild Base Builders
+78.  Commit 78 - Staying on track for verification
+79.  Commit 79 - Progress towards 100 public commits
+80.  Update #80 - Public commit for open building
