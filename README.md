@@ -82,3 +82,4 @@ Making real progress for Guild Base Builders
 79.  Commit 79 - Progress towards 100 public commits
 80.  Update #80 - Public commit for open building
 Pushing public commits daily
+Milestone getting closer
