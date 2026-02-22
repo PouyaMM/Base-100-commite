@@ -87,3 +87,4 @@ Consistent contributions for Base Builders
  Making real progress for Guild Base Builders
 Public commit for open building
 GitHub activity increasing steadily
+Sharing every step openly
