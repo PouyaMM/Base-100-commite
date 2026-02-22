@@ -83,3 +83,4 @@ Making real progress for Guild Base Builders
 80.  Update #80 - Public commit for open building
 Pushing public commits daily
 Milestone getting closer
+Consistent contributions for Base Builders
