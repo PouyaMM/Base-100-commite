@@ -98,3 +98,4 @@ Consistency is the real key
 Making real progress for Guild Base Builders
 Daily commit dedicated to Guild Base
 Public commit for open building
+finishing ...
